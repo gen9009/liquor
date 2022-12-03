@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.ec3fcba6.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/JS\u57FA\u7840/\u624B\u5199\u9898/new.md"}'),r={name:"JavaScript/JS\u57FA\u7840/\u624B\u5199\u9898/new.md"};function n(c,o,s,p,_,i){return a(),t("div")}const f=e(r,[["render",n]]);export{m as __pageData,f as default};
